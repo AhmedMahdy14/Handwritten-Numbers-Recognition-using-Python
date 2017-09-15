@@ -1,6 +1,7 @@
 # Handwritten-Numbers-Recognition-using-Python
 
 **You have to download 3 packages first of all
+
 1-numpy
 2-scipy
 3-matplotlib
