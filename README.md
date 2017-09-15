@@ -1,0 +1,2 @@
+# Handwritten-Numbers-Recognition-using-Python
+you will implement a neural network to rec- ognize handwritten digits using the same training set as before. The neural network will be able to represent complex models that form non-linear hy- potheses. For this week, you will be using parameters from a neural network that we have already trained. Your goal is to implement the feedforward propagation algorithm to use our weights for prediction. In next week's ex- ercise, you
