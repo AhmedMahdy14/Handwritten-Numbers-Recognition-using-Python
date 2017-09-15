@@ -1,5 +1,10 @@
 # Handwritten-Numbers-Recognition-using-Python
 
+**You have to download 3 packages first of all
+1-numpy
+2-scipy
+3-matplotlib
+
 I didn't implement all things from scratch but i make a search and understand many algorithms and then put some edits on them.
 Our neural network has 3 layers { an input layer, a hidden layer and an output layer. Recall that our inputs are pixel values of
 digit images. Since the images are of size 20*20, this gives us 400 input layer units (excluding the extra bias unit which always outputs +1). 
